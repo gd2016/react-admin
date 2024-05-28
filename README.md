@@ -1,4 +1,4 @@
-<h1> fork 自 [slash-admin](https://github.com/d3george/slash-admin) </h1>
+fork 自 [slash-admin](https://github.com/d3george/slash-admin)
 
 ## 特性
 
